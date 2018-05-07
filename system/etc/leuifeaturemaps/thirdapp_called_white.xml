@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<leui_feature_map name="thirdapp_called" type="whitelist">
+    <leui_feature_item name="com.tencent.mtt|Browser-Apps" />
+    <leui_feature_item name="com.UCMobile|Browser-Apps" />
+    <leui_feature_item name="com.oupeng.browser|Browser-Apps" />
+    <leui_feature_item name="com.android.chrome|Browser-Apps" />
+    <leui_feature_item name="com.baidu.browser.apps|Browser-Apps" />
+    <leui_feature_item name="com.ijinshan.browser_fast|Browser-Apps" />
+    <leui_feature_item name="com.ksmobile.cb|Browser-Apps" />
+    <leui_feature_item name="com.quark.browser|Browser-Apps" />
+    <leui_feature_item name="mark.via|Browser-Apps" />
+    <leui_feature_item name="com.qihoo.browser|Browser-Apps" />
+    <leui_feature_item name="io.github.mthli.Ninja|Browser-Apps" />
+    <leui_feature_item name="com.funnylemon.browser|Browser-Apps" />
+    <leui_feature_item name="com.lenovo.browser|Browser-Apps" />
+    <leui_feature_item name="viva.reader|Browser-Apps" />
+    <leui_feature_item name="com.hipu.yidian|Browser-Apps" />
+    <leui_feature_item name="com.ss.android.article.news|Browser-Apps" />
+    <leui_feature_item name="com.tencent.reading|Browser-Apps" />
+    <leui_feature_item name="com.tencent.news|Browser-Apps" />
+    <leui_feature_item name="com.ifeng.news2|Browser-Apps" />
+    <leui_feature_item name="cn.cntvnews|Browser-Apps" />
+    <leui_feature_item name="com.netease.newsreader.activity|Browser-Apps" />
+    <leui_feature_item name="com.sohu.newsclient|Browser-Apps" />
+    <leui_feature_item name="com.sina.news|Browser-Apps" />
+</leui_feature_map>

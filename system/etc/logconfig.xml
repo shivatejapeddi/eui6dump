@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LogConfigs>
+	<LogConfig error_type = "APP_FORCE_CLOSE">
+		<max_log_config>4095</max_log_config>
+		<min_log_config>1</min_log_config>
+		<current_log_config>129</current_log_config>
+	</LogConfig>
+	<LogConfig error_type = "APP_ANR">
+		<max_log_config>4095</max_log_config>
+		<min_log_config>1</min_log_config>
+		<current_log_config>33</current_log_config>
+	</LogConfig>
+	<LogConfig error_type = "NATIVE_CRASH">
+		<max_log_config>4095</max_log_config>
+		<min_log_config>1</min_log_config>
+		<current_log_config>65</current_log_config>
+	</LogConfig>
+	<LogConfig error_type = "USER_SUBMIT">
+		<max_log_config>4095</max_log_config>
+		<min_log_config>1</min_log_config>
+		<current_log_config>4095</current_log_config>
+	</LogConfig>
+	<LogConfig error_type = "SYSTEM_RESTART">
+		<max_log_config>4095</max_log_config>
+		<min_log_config>1</min_log_config>
+		<current_log_config>673</current_log_config>
+	</LogConfig>
+	<LogConfig error_type = "ERR_OOM">
+		<max_log_config>4095</max_log_config>
+		<min_log_config>1</min_log_config>
+		<current_log_config>1</current_log_config>
+	</LogConfig>
+	<LogConfig error_type = "CP_ASSERT">
+		<max_log_config>8191</max_log_config>
+		<min_log_config>1</min_log_config>
+		<current_log_config>6145</current_log_config>
+	</LogConfig>
+</LogConfigs>

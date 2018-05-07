@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<leui_feature_map name="APP_LOCK" type="FeatureTypeWhite">
+    <leui_feature_item name="com.tencent.mm.plugin.voip.ui.VideoActivity" />
+    <leui_feature_item name="com.tencent.av.ui.VideoInviteLock" />
+    <leui_feature_item name="com.tencent.av.ui.VideoInviteFull" />
+    <leui_feature_item name="com.tencent.av.ui.VChatActivity" />
+    <leui_feature_item name="com.tencent.av.ui.AVActivity" />
+    <leui_feature_item name="com.sina.weibo.SSOActivity" />
+</leui_feature_map>

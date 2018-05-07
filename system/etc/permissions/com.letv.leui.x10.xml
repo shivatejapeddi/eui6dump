@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features for product x2 -->
+<permissions>
+<feature name="common.platform_is_qcom"/>
+<feature name="share.show_x2_logo"/>
+<feature name="deskclock_not_support_gesture"/>
+<feature name="soft_mute_key"/>
+<feature name="settings.vibrate_global_enabled"/>
+<feature name="settings.dolby_dap_enabled"/>
+<feature name="modem.cellular_txpower_rollback_x2"/>
+<feature name="fingerprint.ultrasound_function_enabled"/>
+<feature name="fingerprint.navigation_function_enabled"/>
+<feature name="fingerprint.living_detection_enabled"/>
+<feature name="mediaplayer.use_new_engine_for_8996"/>
+<feature name="telephone.letv_roaming_support"/>
+<feature name="recorder.display_record_mode"/>
+<feature name="common.support_double_cameras_for_coral"/>
+</permissions>

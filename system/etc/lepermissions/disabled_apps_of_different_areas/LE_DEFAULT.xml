@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<permissions>
+      <feature name="com.letv.android.themestore.disabled" />
+      <feature name="com.letv.android.wallpaperonline.disabled" />
+      <feature name="com.letv.walletbiz/com.letv.walletbiz.MainActivity.disabled" />
+</permissions>

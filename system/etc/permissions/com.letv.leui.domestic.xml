@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features for domestic market -->
+<permissions>
+      <feature name="leshare.disable_share_by_sharesdk"/>
+      <feature name="systemui.supersearch_bubble_enable"/>
+      <feature name="long_press_virtual_key_func_support"/>
+      <feature name="controlcenter.show_zenmod"/>
+      <feature name="notification.disable_turn_on_screen_for_zenmod"/>
+      <feature name="notification.disable_headsup_for_zenmod"/>
+      <feature name="notification.disable_ticker_for_zenmod"/>
+      <feature name="settings.locales_order_by_china"/>
+      <feature name="email.show_login_in_failed_hint"/>
+      <feature name="leshare.enable_share_by_sharesdk"/>
+      <feature name="systemserver.android_security_cts_disable"/>
+      <feature name="bugpostbox.china_server_address"/>
+      <feature name="note.display_stationery_function"/>
+      <feature name="common.show_license_dialog"/>
+      <feature name="themesettings.themestore_available"/>
+      <feature name="ota.update_from_domestic"/>
+      <feature name="packagemanager_grant_runtime_permission_by_default"/>
+      <feature name="telephone.letv_roaming_only_for_domestic"/>
+      <feature name="letvwallet.jump_to_letvstore"/>
+      <feature name="appops_cn"/>
+      <feature name="com.letv.leui.check_excessive_cpu"/>
+      <feature name="com.letv.leui.memory_monitor"/>
+      <feature name="com.letv.leui.bg_resource_control"/>
+      <feature name="com.letv.leui.alarm_time_align"/>
+      <feature name="application.change_screen_brightness"/>
+      <feature name="app_auto_launch_manager"/>
+      <feature name="packagemanager.grant_runtime_for_google_domestic"/>
+      <feature name="settings.datausage_for_domestic"/>
+      <feature name="transfer.system_data_area"/>
+      <feature name="systemui.controlcenter_has_letv_wallet"/>
+</permissions>

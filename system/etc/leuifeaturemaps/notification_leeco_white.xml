@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Features Maps for operator CMCC -->
+<leui_feature_map name="notification_leeco_apps" type="FeatureTypeWhite">
+<leui_feature_item name="com.letv.games" />
+<leui_feature_item name="com.letv.android.supermanager" />
+<leui_feature_item name="com.letv.android.bugreporter" />
+<leui_feature_item name="com.letv.android.ota" />
+<leui_feature_item name="com.letv.letvshop" />
+<leui_feature_item name="com.letv.android.note" />
+<leui_feature_item name="com.letv.bbs" />
+<leui_feature_item name="com.letv.android.account" />
+<leui_feature_item name="com.letv.walletbiz" />
+<leui_feature_item name="com.letv.android.themestore" />
+<leui_feature_item name="com.letv.ireader" />
+<leui_feature_item name="com.android.deskclock" />
+<leui_feature_item name="com.android.calendar" />
+<leui_feature_item name="sina.mobile.tianqitongletv" />
+<leui_feature_item name="com.android.music" />
+<leui_feature_item name="com.letv.android.remotecontrol" />
+<leui_feature_item name="com.letv.android.wallpaperonline" />
+<leui_feature_item name="com.letv.android.client" />
+<leui_feature_item name="com.lesports.glivesports" />
+<leui_feature_item name="com.letv.android.filemanager" />
+<leui_feature_item name="com.letv.app.appstore" />
+<leui_feature_item name="com.android.gallery3d" />
+<leui_feature_item name="com.android.settings" />
+<leui_feature_item name="com.android.dialer" />
+<leui_feature_item name="com.android.mms" />
+<leui_feature_item name="com.letv.android.letvlive" />
+<leui_feature_item name="com.android.browser" />
+<leui_feature_item name="com.android.camera" />
+<leui_feature_item name="com.android.camera2" />
+<leui_feature_item name="com.letv.sarrsdesktop.movie" />
+<leui_feature_item name="com.letv.sarrsdesktop.toutiao" />
+<leui_feature_item name="com.letv.android.quicksearchbox" />
+<leui_feature_item name="com.letv.android.fannation" />
+<leui_feature_item name="com.letv.android.emojistore" />
+<leui_feature_item name="com.letv.android.geofence" />
+<leui_feature_item name="com.letv.android.freeflow" />
+<leui_feature_item name="com.letv.android.account" />
+<leui_feature_item name="com.letv.android.setupwizard" />
+<leui_feature_item name="com.letv.android.accountinfo" />
+<leui_feature_item name="com.letv.android.personalized" />
+
+</leui_feature_map>
